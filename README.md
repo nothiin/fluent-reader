@@ -16,7 +16,7 @@ For Windows 10 users, the recommended way of installation is through [Microsoft 
 This enables auto-update and experimental ARM64 support. 
 macOS users can also get Fluent Reader from the [Mac App Store](https://apps.apple.com/app/id1520907427).
 
-If you are using Linux or an older version of Windows, you can [get Fluent Reader from GitHub releases](https://github.com/yang991178/fluent-reader/releases).
+v1.1.4
 
 ### Mobile App
 
